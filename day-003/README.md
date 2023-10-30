@@ -1,4 +1,4 @@
-# Day 2: Project 1: hello_world
+# Day 3: Project 1: hello_world
 
 Follow along at [Flutter Tutorial for Beginners #9 - Buttons & Icons][1]
 
