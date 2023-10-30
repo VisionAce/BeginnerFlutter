@@ -18,11 +18,42 @@ class Home extends StatelessWidget {
         backgroundColor: const Color.fromRGBO(229, 57, 53, 1),
       ),
       body: Center(
-        // child: Image(
-        //     image: NetworkImage(
-        //       'https://images.unsplash.com/photo-1501549538842-2f24e2dd6520?ixlib=rb-1.2.1&ixid=eyJhcHBfawQiOjEyMDd9&auto=format&fit=crop&w=634&q=80'),
-        //          AssetImage('assets/space-3.jpg')),
-        child: Image.asset('assets/space-2.jpg'),
+        child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: <Widget>[
+              ElevatedButton.icon(
+                style: ElevatedButton.styleFrom(
+                    foregroundColor: const Color.fromARGB(255, 22, 27, 3),
+                    backgroundColor: Colors.amber),
+                onPressed: () {
+                  print('ElevatedButton: you clicked me');
+                },
+                icon: const Icon(Icons.mail),
+                label: const Text('mail'),
+              ),
+
+              const SizedBox(height: 20), // 用於在按鈕之間增加間距
+
+              TextButton(
+                onPressed: () {
+                  print('TextButton: you clicked me');
+                },
+                child: const Icon(
+                  Icons.grade,
+                  color: Colors.amber,
+                  size: 100.0,
+                ),
+              ),
+
+              const SizedBox(height: 20),
+
+              OutlinedButton(
+                onPressed: () {
+                  print('OutlinedButton: you clicked me');
+                },
+                child: const Text('OutLined'),
+              ),
+            ]),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
