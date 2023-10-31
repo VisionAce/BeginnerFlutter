@@ -19,14 +19,18 @@ It focuses on several specific topics:
            color: Colors.grey[400],
            child: Text('Hello'),
          ),
+  
 - EdgeInsets.symmetric
-   padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 10.0),
+  
+      padding: EdgeInsets.symmetric(horizontal: 30.0, vertical: 10.0),
 
 - EdgeInsets.fromLTRB
-   EdgeInsets.fromLTRB(10.0, 20.0, 30.0, 40.0),
+  
+      EdgeInsets.fromLTRB(10.0, 20.0, 30.0, 40.0),
 
 - margin:
-     body: Container(
+  
+      body: Container(
            padding: EdgeInsets.fromLTRB(10.0, 20.0, 30.0, 40.0),
            margin: EdgeInsets.all(30.0),
            color: Colors.grey[400],
@@ -34,14 +38,15 @@ It focuses on several specific topics:
          ),
 
 - Padding()
-   body: Padding(
+  
+      body: Padding(
            padding: EdgeInsets.all(90.0),
            child: Text('Hello'),
          ),
 
 ## Rows
 
-   body: Row(
+    body: Row(
            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
            crossAxisAlignment: CrossAxisAlignment.start,
            children: <Widget>[
@@ -66,4 +71,4 @@ It focuses on several specific topics:
 [1]: https://www.youtube.com/watch?v=H0cJ0gUlgE8&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=11
 [2]: https://www.youtube.com/watch?v=a6oKFvGuTH4&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=11
 [3]: https://www.youtube.com/watch?v=siFU8c_Heu0&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=12
-[4]: 
+[4]: https://github.com/VisionAce/BeginnerFlutter/commit/5bdb079ec1cffe704f51b5907200f391fc7d432d
