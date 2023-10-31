@@ -66,9 +66,10 @@ It focuses on several specific topics:
 
 ## Columns
 
-![image](https://github.com/VisionAce/Screenshoots/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-31%20at%2021.04.16.png)
+<img width="150" height="400" scr="https://github.com/VisionAce/Screenshoots/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-31%20at%2021.04.16.png">
 
 [Code Day4 commit][4]
+
 
 [1]: https://www.youtube.com/watch?v=H0cJ0gUlgE8&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=11
 [2]: https://www.youtube.com/watch?v=a6oKFvGuTH4&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=11
