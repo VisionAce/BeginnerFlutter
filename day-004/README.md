@@ -66,7 +66,7 @@ It focuses on several specific topics:
 
 ## Columns
 
-<img width="150" height="400" scr="https://github.com/VisionAce/Screenshoots/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-31%20at%2021.04.16.png">
+<img width="300" height="500" scr="https://github.com/VisionAce/Screenshoots/blob/main/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202023-10-31%20at%2021.04.16.png"/>
 
 [Code Day4 commit][4]
 
