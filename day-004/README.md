@@ -8,7 +8,8 @@ Follow along at
 # 📒 Field Notes
 It focuses on several specific topics:
 - Containers & Padding
-- Buttons
+- Rows
+- Columns
 
 ## Containers & Padding
 
