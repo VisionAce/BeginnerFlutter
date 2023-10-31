@@ -1,9 +1,9 @@
 # Day 4: Project 1: hello_world
 
 Follow along at 
-[Flutter Tutorial for Beginners #10 - Containers & Padding][1]
-[Flutter Tutorial for Beginners #11 - Rows][2]
-[Flutter Tutorial for Beginners #12 - Columns][3]
+- [Flutter Tutorial for Beginners #10 - Containers & Padding][1]
+- [Flutter Tutorial for Beginners #11 - Rows][2]
+- [Flutter Tutorial for Beginners #12 - Columns][3]
 
 # 📒 Field Notes
 It focuses on several specific topics:
