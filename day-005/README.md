@@ -35,7 +35,7 @@ MaxGap will only fill the available space up to your specified size.
 
 ## Outline & Shortcuts
 
-<img width="300" height="600" src="https://github.com/VisionAce/Screenshoots/blob/main/截圖%202023-11-08%20晚上10.24.47.png"/>
+<img width="600" height="600" src="https://github.com/VisionAce/Screenshoots/blob/main/截圖%202023-11-08%20晚上10.24.47.png"/>
 
 ## Expanded Widgets
 
