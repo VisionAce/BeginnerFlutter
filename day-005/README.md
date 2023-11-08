@@ -35,7 +35,7 @@ MaxGap will only fill the available space up to your specified size.
 
 ## Outline & Shortcuts
 
-<img width="300" height="600" src="https://drive.google.com/file/d/1UK37VW6TRK4EKTehSi9gTbjnFpoSnDDA/view?usp=sharing"/>
+<img width="300" height="600" src="https://drive.google.com/file/d/1UK37VW6TRK4EKTehSi9gTbjnFpoSnDDA/view?usp=share_link"/>
 
 ## Expanded Widgets
 
@@ -88,4 +88,4 @@ MaxGap will only fill the available space up to your specified size.
 [2]: https://pub.dev/packages/gap/install
 [3]: https://www.youtube.com/watch?v=RdPkFd6_fTA&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=13
 [4]: https://www.youtube.com/watch?v=zNZvuP8h1vs&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=14
-[5]:
+[5]: https://github.com/VisionAce/BeginnerFlutter/commit/54f9cf47f9ec2828ee1eb945af8f0745330aa492
