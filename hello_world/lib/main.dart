@@ -1,4 +1,9 @@
+// import 'dart:html';
+
+import 'dart:math';
+
 import 'package:flutter/material.dart';
+import 'package:gap/gap.dart';
 
 void main() {
   runApp(const MaterialApp(
@@ -17,33 +22,33 @@ class Home extends StatelessWidget {
         centerTitle: true,
         backgroundColor: const Color.fromRGBO(229, 57, 53, 1),
       ),
-      body: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-        crossAxisAlignment: CrossAxisAlignment.center,
+      body: Row(
         children: <Widget>[
-          Row(
-            mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            crossAxisAlignment: CrossAxisAlignment.center,
-            children: <Widget>[
-              Text('Hello'),
-              Text('World!'),
-            ],
+          Expanded(child: Image.asset('assets/space-2.jpg'), flex: 3),
+          Expanded(
+            flex: 1,
+            child: Container(
+              padding: EdgeInsets.all(30.0),
+              color: Colors.cyan,
+              child: Text('1'),
+            ),
           ),
-          Container(
-            padding: EdgeInsets.all(20.0),
-            color: Colors.cyan,
-            child: Text('one'),
+          Expanded(
+            flex: 1,
+            child: Container(
+              padding: EdgeInsets.all(30.0),
+              color: Colors.pinkAccent,
+              child: Text('2'),
+            ),
           ),
-          Container(
-            padding: EdgeInsets.all(30.0),
-            color: Colors.pinkAccent,
-            child: Text('two'),
-          ),
-          Container(
-            padding: EdgeInsets.all(40.0),
-            color: Colors.amber,
-            child: Text('three'),
-          ),
+          Expanded(
+            flex: 1,
+            child: Container(
+              padding: EdgeInsets.all(30.0),
+              color: Colors.amber,
+              child: Text('3'),
+            ),
+          )
         ],
       ),
       floatingActionButton: FloatingActionButton(
