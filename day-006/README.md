@@ -18,7 +18,7 @@ It focuses on several specific topics:
 
 從Stateless轉換成Stateful
 - 在Stateless的class上點擊燈泡
-- Conver to StatefulWidgets
+- Conver to StatefulWidget
 
 <img width="600" height="300" src="https://github.com/VisionAce/Screenshoots/blob/main/截圖%202023-11-10%20凌晨12.04.18.png"/>
 
@@ -48,4 +48,4 @@ It focuses on several specific topics:
 
 [1]: https://www.youtube.com/watch?v=c063ddhWafo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=15
 [2]: https://www.youtube.com/watch?v=p5dkB3Mrxdo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=17
-[3]: 
+[3]: ninja_id/lib/main.dart
